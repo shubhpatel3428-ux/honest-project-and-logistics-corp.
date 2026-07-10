@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shubhpatel3428-ux.github.io/honest-project-and-logistics-corp./sitemap.xml
